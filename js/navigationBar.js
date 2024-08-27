@@ -49,7 +49,7 @@ function generateNavigation(){
 
             <ul class="navBx">
                 <li class="navlink"><a href="/index.html">Home</a></li>
-                <li class="navlink"><a href="/about.html">About</a></li>
+                <li class="navlink"><a href="/restorant/about.html">About</a></li>
                 <li class="navlink">             
                             <a href="/service.html">Service</a>             
                 </li>
